@@ -1,1 +1,3 @@
-Name of color
+Name of colour
+Red
+Green
